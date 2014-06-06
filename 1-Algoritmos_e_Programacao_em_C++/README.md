@@ -62,7 +62,8 @@ SCHILDT, Herbert. C: completo e total. 3. ed. São Paulo: Makron, 1996.
 MANZANO, José Augusto Navarro Garcia; OLIVEIRA, Jayr Figueiredo de. Algoritmos: lógica para desenvolvimento de programação de computadores. 24. ed São Paulo: Érica, 2004.
 
 
-Bibliografia complementar
+### Bibliografia complementar
+
 DAVIS, Stephen. Começando a Programar em C++ - Para Leigos. Rio de Janeiro: Alta BoOKs, 2011.
 
 CORMEN, Thomas H.; LEISERSON, Charles E.; RIVEST, Ronald L.; STEIN, Clifford. Introduction to Algorithms. The MIT Press; 3ed (July 31, 2009).
