@@ -8,44 +8,32 @@
 **Organização acadêmica**: Coord Cursos Sup de Tecnol
 
 ### Competências  
-Compreender o enunciado de um problema proposto e produzir um algoritmo que leve à solução correta do mesmo;
 
-Elaborar algoritmos que façam uso, em conjunto, de estruturas de controle do tipo seqüenciais, de repetição e de seleção;
-
-Construir modelos de dados baseados em objetos, que utilizem de maneira adequada as construções do paradigma;
-
-Compreender e manipular estruturas de dados básicas: vetores e matrizes;
-
-Codificar algoritmos na linguagem de programação C++;
-
-Produzir programas legíveis, eficientes e corretos.
+* Compreender o enunciado de um problema proposto e produzir um algoritmo que leve à solução correta do mesmo;
+* Elaborar algoritmos que façam uso, em conjunto, de estruturas de controle do tipo seqüenciais, de repetição e de seleção;
+* Construir modelos de dados baseados em objetos, que utilizem de maneira adequada as construções do paradigma;
+* Compreender e manipular estruturas de dados básicas: vetores e matrizes;
+* Codificar algoritmos na linguagem de programação C++;
+* Produzir programas legíveis, eficientes e corretos.
 
 
 ### Conhecimentos
-Fundamentos da arquitetura de Von Neumann.
 
-Fundamentos da programação imperativa: comandos de atribuição, de fluxo de controle e de entrada/saída.
-
-Memória e variáveis. Endereçamento de memória e ponteiros.
-
-Operadores aritméticos, lógicos, relacionais e binários.
-
-Estruturas de controle: testes condicionais, comandos de iteração.
-
-Manipulação de strings.
-
-Funções e procedimentos. Passagem de parâmetros.
-
-Vetores e matrizes.
-
-Programação orientada a objetos: classes e objetos.
-
-Invocação de métodos.
-
-Herança, polimorfismo e ligação dinâmica.
+* Fundamentos da arquitetura de Von Neumann.
+* Fundamentos da programação imperativa: comandos de atribuição, de fluxo de controle e de entrada/saída.  
+* Memória e variáveis. Endereçamento de memória e ponteiros.
+* Operadores aritméticos, lógicos, relacionais e binários.
+* Estruturas de controle: testes condicionais, comandos de iteração.
+* Manipulação de strings.
+* Funções e procedimentos. Passagem de parâmetros.
+* Vetores e matrizes.
+* Programação orientada a objetos: classes e objetos.
+* Invocação de métodos.
+* Herança, polimorfismo e ligação dinâmica.
 
 
 ### Metodologias, técnicas e recursos de ensino e aprendizagem
+
 Aulas expositivas, sob o enfoque da discussão e análise crítica (sob ambos os pontos de vista, técnico e humano) dos conteúdos apresentados, intercaladas com a realização de exercícios de cunho prático, experimentos e seminários.
 
 
@@ -55,6 +43,7 @@ A avaliação é processual, cumulativa, participativa e contínua, a partir de 
 
 
 ### Bibliografia básica
+
 DEITEL, Harvey; DEITEL, Paul. C++: Como Programar. 5. ed. São Paulo: Pearson, 2010.
 
 SCHILDT, Herbert. C: completo e total. 3. ed. São Paulo: Makron, 1996.
