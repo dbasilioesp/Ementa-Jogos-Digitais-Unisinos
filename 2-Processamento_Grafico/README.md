@@ -9,40 +9,28 @@
 
 ### Competências
 
-Compreender os principais conceitos e etapas no processo de visualização em computação gráfica.
-
-Dominar a utilização de técnicas de computação gráfica na resolução de problemas que exigem processamento gráfico.
-
-Implementar um sistema interativo simples de computação gráfica.
-
-Entender as áreas do processamento gráfico: computação gráfica, processamento de imagens, realidade virtual, interfaces, visão computacional.
+* Compreender os principais conceitos e etapas no processo de visualização em computação gráfica.
+* Dominar a utilização de técnicas de computação gráfica na resolução de problemas que exigem processamento gráfico.
+* Implementar um sistema interativo simples de computação gráfica.
+* Entender as áreas do processamento gráfico: computação gráfica, processamento de imagens, realidade virtual, interfaces, visão computacional.
 
 
 ### Conhecimentos
 
-Introdução ao processamento gráfico: computação gráfica, processamento de imagens, realidade virtual, interfaces, visão computacional.
-
-Histórico e evolução da computação gráfica.
-
-Esquema conceitual da computação gráfica.
-
-Padrões e bibliotecas gráficas.
-
-Algoritmos para varredura de linha de primitivas gráficas.
-
-Preenchimento de polígonos.
-
-Recorte de linhas.
-
-Transformações geométricas: rotação, escala, translação.
-
-Coordenadas homogêneas.
-
-Composição de transformações.
-
-Transformações tridimensionais.
-
-Visualização: Projeções. Recorte tridimensional. Câmera sintética.
+* Introdução ao processamento gráfico: computação gráfica, processamento de imagens, realidade virtual, interfaces, visão computacional.
+* Histórico e evolução da computação gráfica.
+* Esquema conceitual da computação gráfica.
+* Padrões e bibliotecas gráficas.
+* Algoritmos para varredura de linha de primitivas gráficas.
+* Preenchimento de polígonos.
+* Recorte de linhas.
+* Transformações geométricas: rotação, escala, translação.
+* Coordenadas homogêneas.
+* Composição de transformações.
+* Transformações tridimensionais.
+* Visualização: Projeções.
+* Recorte tridimensional.
+* Câmera sintética.
 
 
 ### Metodologias, técnicas e recursos de ensino e aprendizagem
@@ -51,7 +39,10 @@ Aulas expositivas, sob o enfoque da discussão e análise crítica (sob ambos os
 
 
 ### Metodologias, técnicas e recursos de avaliação
-A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno ao longo da atividade;  Dificuldades de aprendizagem que possam comprometer o desenvolvimento de alguma das competências previstas devem ser identificadas e trabalhadas ainda no decorrer da atividade; Além de critérios de avaliação que atestem a aprendizagem de aspectos técnicos, sempre sob um ponto de vista da capacidade de avaliação crítica por parte do aluno, critérios como pontualidade, capacidade de trabalhar em equipe, participação em aula, completude das tarefas solicitadas e capacidade de expressão devem ser também considerados.
+
+* A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno ao longo da atividade;  
+* Dificuldades de aprendizagem que possam comprometer o desenvolvimento de alguma das competências previstas devem ser identificadas e trabalhadas ainda no decorrer da atividade; 
+* Além de critérios de avaliação que atestem a aprendizagem de aspectos técnicos, sempre sob um ponto de vista da capacidade de avaliação crítica por parte do aluno, critérios como pontualidade, capacidade de trabalhar em equipe, participação em aula, completude das tarefas solicitadas e capacidade de expressão devem ser também considerados.
 
 
 ### Bibliografia básica

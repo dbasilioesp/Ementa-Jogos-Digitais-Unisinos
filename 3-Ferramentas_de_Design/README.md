@@ -9,25 +9,18 @@
 
 ### Competências
 
-Identificar os conceitos básicos relativos ao papel das ferramentas de design na cadeia produtiva da criação de jogos;
-
-Discernir os usos e aplicações das diferentes ferramentas a partir de necessidades e problemas pertinentes ao processo de desenvolvimento das interfaces gráficas de um jogo;
-
-Projetar, modelar e gerar elementos gráficos para jogos o Digitalizar e tratar imagens de acordo com as características requisitadas para uso em projetos de jogos.
+* Identificar os conceitos básicos relativos ao papel das ferramentas de design na cadeia produtiva da criação de jogos;
+* Discernir os usos e aplicações das diferentes ferramentas a partir de necessidades e problemas pertinentes ao processo de desenvolvimento das interfaces gráficas de um jogo;
+* Projetar, modelar e gerar elementos gráficos para jogos o Digitalizar e tratar imagens de acordo com as características requisitadas para uso em projetos de jogos.
 
 
 ### Conhecimentos
 
-Modelagem 3D;
-
-Edição imagens 2D;
-
-Animação 3D;
-
-Textura e mapeamento;
-
-Esqueletos e construção de personagem.
-
+* Modelagem 3D;
+* Edição imagens 2D;
+* Animação 3D;
+* Textura e mapeamento;
+* Esqueletos e construção de personagem.
 
 ### Metodologias, técnicas e recursos de ensino e aprendizagem
 
@@ -36,9 +29,9 @@ Realização de aulas e atividades práticas em laboratório, intercaladas com a
 
 ### Metodologias, técnicas e recursos de avaliação
 
-A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno ao longo da atividade;
+* A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno ao longo da atividade;
 
-Realização de vários trabalhos práticos, com dificuldade progressiva.
+* Realização de vários trabalhos práticos, com dificuldade progressiva.
 
 
 ### Bibliografia básica

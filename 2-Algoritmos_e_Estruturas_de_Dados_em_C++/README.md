@@ -9,26 +9,19 @@
 
 ### Competências
 
-Conhecer o funcionamento e utilização das principais estruturas de dados;
-
-Criar programas corretos e eficientes, fazendo uso dos algoritmos e das estruturas de dados adequadas.
+* Conhecer o funcionamento e utilização das principais estruturas de dados;
+* Criar programas corretos e eficientes, fazendo uso dos algoritmos e das estruturas de dados adequadas.
 
 
 ### Conhecimentos
 
-Recursão;
-
-Listas lineares, filas e pilhas;
-
-Árvores;
-
-Elementos de complexidade de algoritmos;
-
-Manipulação de dados em disco;
-
-Alocação dinâmica de memória;
-
-Algoritmos de busca e de ordenação.
+* Recursão;
+* Listas lineares, filas e pilhas;
+* Árvores;
+* Elementos de complexidade de algoritmos;
+* Manipulação de dados em disco;
+* Alocação dinâmica de memória;
+* Algoritmos de busca e de ordenação.
 
 
 ### Metodologias, técnicas e recursos de ensino e aprendizagem
@@ -38,11 +31,9 @@ Aulas expositivas, sob o enfoque da discussão e análise crítica (sob ambos os
 
 ### Metodologias, técnicas e recursos de avaliação
 
-A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno ao longo da atividade;
-
-Dificuldades de aprendizagem que possam comprometer o desenvolvimento de alguma das competências previstas devem ser identificadas e trabalhadas ainda no decorrer da atividade;
-
-Além de critérios de avaliação que atestem a aprendizagem de aspectos técnicos, sempre sob um ponto de vista da capacidade de avaliação crítica por parte do aluno, critérios como pontualidade, capacidade de trabalhar em equipe, participação em aula, completude das tarefas solicitadas e capacidade de expressão devem ser também considerados.
+* A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno ao longo da atividade;
+* Dificuldades de aprendizagem que possam comprometer o desenvolvimento de alguma das competências previstas devem ser identificadas e trabalhadas ainda no decorrer da atividade;
+* Além de critérios de avaliação que atestem a aprendizagem de aspectos técnicos, sempre sob um ponto de vista da capacidade de avaliação crítica por parte do aluno, critérios como pontualidade, capacidade de trabalhar em equipe, participação em aula, completude das tarefas solicitadas e capacidade de expressão devem ser também considerados.
 
 
 ### Bibliografia básica

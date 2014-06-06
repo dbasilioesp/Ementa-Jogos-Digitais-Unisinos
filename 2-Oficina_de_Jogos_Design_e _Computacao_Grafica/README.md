@@ -9,20 +9,27 @@
 
 ### Competências
 
-Conhecer e aplicar os conceitos básicos de computação gráfica relacionados a área de desenvolvimento de jogos e entretenimento digital: imagem, modelagem e síntese de imagens 2D e 3D, animação por computador.
-
-Conhecer e aplicar conceitos de gerência de projetos de desenvolvimento de jogos e entretenimento digital.
-
-Conhecer o mercado de jogos atual: nacional e internacional.
-
-Identificar e aplicar aspectos de interatividade em jogos.
+* Conhecer e aplicar os conceitos básicos de computação gráfica relacionados a área de desenvolvimento de jogos e entretenimento digital: imagem, modelagem e síntese de imagens 2D e 3D, animação por computador.
+* Conhecer e aplicar conceitos de gerência de projetos de desenvolvimento de jogos e entretenimento digital.
+* Conhecer o mercado de jogos atual: nacional e internacional.
+* Identificar e aplicar aspectos de interatividade em jogos.
 
 
 ### Conhecimentos
 
-Design Document. Fases do projeto de desenvolvimento de jogos e entretenimento digital: metodologias, etapas, cronogramas, recursos e or»camento (qualidade esperada do produto, tempo de desenvolvimento, escopo do projeto e recursos necessários). Estudo da relação entre cinema e videogames. O equilíbrio da interatividade e linearidade em jogos. Introdução aos recursos multimídia de design (software e hardware) para Jogos e Entretenimento Digital. Aspectos básicos de Game Design. Gameplay: conceito e análise. Imersão, aparência e sentimento.
-
-Técnicas de storytelling. Processo de desenvolvimento de jogos. Visão estrutural do mercado de desenvolvimento de jogos. Estudo de casos: desenvolvedores internacionais e nacionais de jogos. Conceitos básicos de computação gráfica: processamento de imagens, modelagem (2D, 3D), síntese de imagens, animação e realidade virtual.
+* Design Document.
+* Fases do projeto de desenvolvimento de jogos e entretenimento digital: metodologias, etapas, cronogramas, recursos e orçamento (qualidade esperada do produto, tempo de desenvolvimento, escopo do projeto e recursos necessários).
+* Estudo da relação entre cinema e videogames.
+* O equilíbrio da interatividade e linearidade em jogos.
+* Introdução aos recursos multimídia de design (software e hardware) para Jogos e Entretenimento Digital.
+* Aspectos básicos de Game Design.
+* Gameplay: conceito e análise.
+* Imersão, aparência e sentimento.
+* Técnicas de storytelling. 
+* Processo de desenvolvimento de jogos. 
+* Visão estrutural do mercado de desenvolvimento de jogos.
+* Estudo de casos: desenvolvedores internacionais e nacionais de jogos.
+* Conceitos básicos de computação gráfica: processamento de imagens, modelagem (2D, 3D), síntese de imagens, animação e realidade virtual.
 
 
 ### Metodologias, técnicas e recursos de ensino e aprendizagem

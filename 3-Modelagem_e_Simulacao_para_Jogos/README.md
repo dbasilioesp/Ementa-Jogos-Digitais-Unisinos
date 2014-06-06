@@ -9,51 +9,53 @@
 
 ### Competências
 
-Identificar situações do cotidiano suscetíveis de serem abstraídos, modelados e resolvidos através da simulação como base para jogos;
-Aplicar as principais técnicas e ferramentas atuais de modelagem e simulação;
-Programar e compreender uma linguagem de simulação;
-Dominar um ambiente ou uma ferramenta de simulação;
-Conhecer os principais textos e pesquisas atuais na área de simulação e jogos e exercitar a capacidade de expressão dos conceitos e definições da área.
+* Identificar situações do cotidiano suscetíveis de serem abstraídos, modelados e resolvidos através da simulação como base para jogos;
+* Aplicar as principais técnicas e ferramentas atuais de modelagem e simulação;
+* Programar e compreender uma linguagem de simulação;
+* Dominar um ambiente ou uma ferramenta de simulação;
+* Conhecer os principais textos e pesquisas atuais na área de simulação e jogos e exercitar a capacidade de expressão dos conceitos e definições da área.
 
 ### Conhecimentos
 
-Simulação discreta e simulação contínua;  
-Modelagem através de Grafos e Máquinas de Transição de Estados. Autômatos celulares;  
-Modelagem por Redes de Petri;  
-Modelagem por regras de inferência e gramáticas;  
-Noções de probabilidade e estatística;  
-Geração de números aleatórios;  
-Simulação de Monte Carlo;  
-Modelagem por cadeias de Markov;  
-Modelagem através de equações não-lineares recorrentes;  
-Modelagem por equações diferenciais;  
-Equações de diferenças;  
-Simulação de atrasos e efeitos temporais;  
-Modelagem por sistemas de Filas;  
-Escalonamento e execução;  
-Métodos de Integração;  
-Estabilidade e abstração;  
-Análise de casos e suas principais características e exemplos: Sistemas mecânicos;  
-Noções de cinemática e dinâmica;  
-Modelagem por matrizes de transformação de coordenadas;  
-Colisões;  
-Fluidos;  
-Sistemas biológicos;  
-Simulação de crescimento e de ecosistemas;  
-Simulação de populações;  
-Sistema de partículas;  
-Simulação de sistemas econômicos, empresas e relações sociais;  
-Linguagens de simulação;  
-Ambientes de simulação.
+* Simulação discreta e simulação contínua;  
+* Modelagem através de Grafos e Máquinas de Transição de Estados. Autômatos celulares;  
+* Modelagem por Redes de Petri;  
+* Modelagem por regras de inferência e gramáticas;  
+* Noções de probabilidade e estatística;  
+* Geração de números aleatórios;  
+* Simulação de Monte Carlo;  
+* Modelagem por cadeias de Markov;  
+* Modelagem através de equações não-lineares recorrentes;  
+* Modelagem por equações diferenciais;  
+* Equações de diferenças;  
+* Simulação de atrasos e efeitos temporais;  
+* Modelagem por sistemas de Filas;  
+* Escalonamento e execução;  
+* Métodos de Integração;  
+* Estabilidade e abstração;  
+* Análise de casos e suas principais características e exemplos: Sistemas mecânicos;  
+* Noções de cinemática e dinâmica;  
+* Modelagem por matrizes de transformação de coordenadas;  
+* Colisões;  
+* Fluidos;  
+* Sistemas biológicos;  
+* Simulação de crescimento e de ecosistemas;  
+* Simulação de populações;  
+* Sistema de partículas;  
+* Simulação de sistemas econômicos, empresas e relações sociais;  
+* Linguagens de simulação;  
+* Ambientes de simulação.
 
 ### Metodologias, técnicas e recursos de ensino e aprendizagem
+
 Aulas expositivas, sob o enfoque da discussão e análise crítica (sob ambos os pontos de vista, técnico e humano) dos conteúdos apresentados, intercaladas com a realização de exercícios de cunho prático, experimentos e seminários.
 
 
 ### Metodologias, técnicas e recursos de avaliação
-A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno ao longo da atividade;  
-Dificuldades de aprendizagem que possam comprometer o desenvolvimento de alguma das competências previstas devem ser identificadas e trabalhadas ainda no decorrer da atividade;
-Além de critérios de avaliação que atestem a aprendizagem de aspectos técnicos, sempre sob um ponto de vista da capacidade de avaliação crítica por parte do aluno, critérios como pontualidade, capacidade de trabalhar em equipe, participação em aula, completude das tarefas solicitadas e capacidade de expressão devem ser também considerados.
+
+* A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno ao longo da atividade;  
+* Dificuldades de aprendizagem que possam comprometer o desenvolvimento de alguma das competências previstas devem ser identificadas e trabalhadas ainda no decorrer da atividade;
+* Além de critérios de avaliação que atestem a aprendizagem de aspectos técnicos, sempre sob um ponto de vista da capacidade de avaliação crítica por parte do aluno, critérios como pontualidade, capacidade de trabalhar em equipe, participação em aula, completude das tarefas solicitadas e capacidade de expressão devem ser também considerados.
 
 ### Bibliografia básica
 

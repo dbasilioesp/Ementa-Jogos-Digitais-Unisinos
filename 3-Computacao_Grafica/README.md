@@ -9,24 +9,29 @@
 
 ### Competências
 
-Dominar os principais conceitos e etapas no processo de síntese de imagens em computação gráfica;
-
-Utilizar técnicas de computação gráfica na resolução de problemas que exigem processamento gráfico;
-
-Implementar um sistema interativo complexo de computação gráfica.
+* Dominar os principais conceitos e etapas no processo de síntese de imagens em computação gráfica;
+* Utilizar técnicas de computação gráfica na resolução de problemas que exigem processamento gráfico;
+* Implementar um sistema interativo complexo de computação gráfica.
 
 
 ### Conhecimentos
 
-Modelagem geométrica: representações poligonais e paramétricas. Modelagem hierárquica. Representação de curvas e superfícies. Modelagem de sólidos: instanciação de primitivas. Representações por sweeping.
-
-Representações por partição celular. Geometria sólida construtiva;
-
-Técnicas para remoção de elementos ocultos: scan-line, z-buffer,ray-casting;
-
-Algoritmos de iluminação global: traçado de raios: visão Geral, Algoritmos de intersecção entre raios e primitivas. Técnicas de aceleração de traçado de raios. Algoritmos de iluminação global. Radiosidade. Cálculo dos fatores de forma;
-
-Técnicas para incremento do realismo em síntese de imagens: mapeamento de texturas. Cálculo de sombras. Mapeamento de rugosidades.
+* Modelagem geométrica: representações poligonais e paramétricas.
+* Modelagem hierárquica.
+* Representação de curvas e superfícies.
+* Modelagem de sólidos: instanciação de primitivas.
+* Representações por sweeping.
+* Representações por partição celular.
+* Geometria sólida construtiva;
+* Técnicas para remoção de elementos ocultos: scan-line, z-buffer,ray-casting;
+* Algoritmos de iluminação global: traçado de raios: visão Geral, Algoritmos de intersecção entre raios e primitivas. 
+* Técnicas de aceleração de traçado de raios. 
+* Algoritmos de iluminação global. 
+* Radiosidade. 
+* Cálculo dos fatores de forma;
+* Técnicas para incremento do realismo em síntese de imagens: mapeamento de texturas.
+* Cálculo de sombras. 
+* Mapeamento de rugosidades.
 
 
 ### Metodologias, técnicas e recursos de ensino e aprendizagem
@@ -36,11 +41,9 @@ Aulas expositivas, sob o enfoque da discussão e análise crítica (sob ambos os
 
 ### Metodologias, técnicas e recursos de avaliação
 
-A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno ao longo da atividade;
-
-Dificuldades de aprendizagem que possam comprometer o desenvolvimento de alguma das competências previstas devem ser identificadas e trabalhadas ainda no decorrer da atividade;
-
-Além de critérios de avaliação que atestem a aprendizagem de aspectos técnicos, sempre sob um ponto de vista da capacidade de avaliação crítica por parte do aluno, critérios como pontualidade, capacidade de trabalhar em equipe, participação em aula, completude das tarefas solicitadas e capacidade de expressão devem ser também considerados.
+* A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno ao longo da atividade;
+* Dificuldades de aprendizagem que possam comprometer o desenvolvimento de alguma das competências previstas devem ser identificadas e trabalhadas ainda no decorrer da atividade;
+* Além de critérios de avaliação que atestem a aprendizagem de aspectos técnicos, sempre sob um ponto de vista da capacidade de avaliação crítica por parte do aluno, critérios como pontualidade, capacidade de trabalhar em equipe, participação em aula, completude das tarefas solicitadas e capacidade de expressão devem ser também considerados.
 
 
 ### Bibliografia básica

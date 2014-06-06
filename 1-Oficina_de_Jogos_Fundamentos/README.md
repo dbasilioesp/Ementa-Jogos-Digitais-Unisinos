@@ -9,34 +9,23 @@
 
 ### Competências
 
-Conhecer a história e a evolução das aplicações de jogos e entretenimento digital na computação, sendo capaz de posicionar-se neste contexto e de identificar tendências futuras.
-
-Conhecer e ser capaz de identificar os diferentes tipos e categorias de jogos.
-
-Conhecer as diferentes plataformas para jogos e entretenimento.
-
-Possuir uma visão global das etapas, ferramentas e processos envolvidos no projeto e desenvolvimento de jogos e aplicações de entretenimento digital.
-
-Discernir condutas éticas e não éticas nas práticas que envolvam o uso e desenvolvimento de jogos e aplicações para computador.
-
-Exercitar o planejamento e implementação de um jogo 2D utilizando uma ferramenta de desenvolvimento rápido.
+* Conhecer a história e a evolução das aplicações de jogos e entretenimento digital na computação, sendo capaz de posicionar-se neste contexto e de identificar tendências futuras.
+* Conhecer e ser capaz de identificar os diferentes tipos e categorias de jogos.
+* Conhecer as diferentes plataformas para jogos e entretenimento.
+* Possuir uma visão global das etapas, ferramentas e processos envolvidos no projeto e desenvolvimento de jogos* e aplicações de entretenimento digital.
+* Discernir condutas éticas e não éticas nas práticas que envolvam o uso e desenvolvimento de jogos e aplicações* para computador.
+* Exercitar o planejamento e implementação de um jogo 2D utilizando uma ferramenta de desenvolvimento rápido.
 
 
 ### Conhecimentos
 
-História e evolução dos jogos.
-
-Emuladores de computadores e consoles. Retrocomputing e Abandonware.
-
-Ética e emuladores.
-
-Classificação dos jogos quanto aos diversos estilos existentes.
-
-Luz e Cor.
-
-Ética em aplicações de jogos e entretenimento digital e condutas éticas.
-
-Utilização de uma ferramenta de desenvolvimento rápido de jogos.
+* História e evolução dos jogos.
+* Emuladores de computadores e consoles. Retrocomputing e Abandonware.
+* Ética e emuladores.
+* Classificação dos jogos quanto aos diversos estilos existentes.
+* Luz e Cor.
+* Ética em aplicações de jogos e entretenimento digital e condutas éticas.
+* Utilização de uma ferramenta de desenvolvimento rápido de jogos.
 
 
 ### Metodologias, técnicas e recursos de ensino e aprendizagem
@@ -57,6 +46,7 @@ SALEN, Katie; ZIMMERMAN, Eric. Regras do jogo: fundamentos do design de jogos. S
 
 
 ### Bibliografia complementar
+
 CASTILLO, Travis; NOVAK, Jeannie. Game development essentials: game level design. New York: Delmar, c2008.
 
 CRAWFORD, Chris. Chris Crawford on game design. Indianapolis: New Riders, 2003.

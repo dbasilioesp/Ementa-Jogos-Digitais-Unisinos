@@ -9,26 +9,46 @@
 
 ### Competências
 
-Classificar objetos gráficos básicos em 2d e 3D.
-
-Visualizar objetos gráfcos em 2D e 3D.
-
-Calcular áreas e volumes associados a objetos gráficos básicos.
-
-Transladar e rotacionar objetos em 2D e 3D.
-
-Esboçar e compreender gráficos de funções simples.
-
-Lidar com o conceito de vetores e suas aplicações.
+* Classificar objetos gráficos básicos em 2d e 3D.
+* Visualizar objetos gráfcos em 2D e 3D.
+* Calcular áreas e volumes associados a objetos gráficos básicos.
+* Transladar e rotacionar objetos em 2D e 3D.
+* Esboçar e compreender gráficos de funções simples.
+* Lidar com o conceito de vetores e suas aplicações.
 
 
 ### Conhecimentos
 
-Pontos. Representação. Matriz de pontos. Sistemas de referência. Representação gráfica de pontos em meios discretos (com pixels). Translação e rotação.
-
-Equações das retas no plano e no espaço. Relações entre pontos e retas. Intersecção. Ângulos entre reta e reta Intersecção entre retas e retas. Translação e rotação de retas. Equações do plano (baseadas em três pontos e na normal). Determinação de pontos de um plano. Ângulos entre retas e planos. Intersecção
-entre retas e planos e entre planos e planos. Posições relativas entre ponto e plano. Polígonos planos. Propriedades. Contorno (Hull) convexo de um polígono. Construção de polígonos regulares. Simetrias. Posições relativas entre pontos e polígonos (em relação a seu interior e exterior). Poliedros. Poliedros regulares e
-semi-regulares. Poliedros duais. Poliedros estrelados. Redes definidas a partir de poliedros. Contorno (Hull) convexo de um poliedro. Fórmula de Euler para poliedros simples e não-simples. Matriz de conectividade. Representação de poliedros por semi-espaços.
+* Pontos. Representação.
+* Matriz de pontos.
+* Sistemas de referência.
+* Representação gráfica de pontos em meios discretos (com pixels).
+* Translação e rotação.
+* Equações das retas no plano e no espaço.
+* Relações entre pontos e retas.
+* Intersecção.
+* Ângulos entre reta e reta Intersecção entre retas e retas.
+* Translação e rotação de retas.
+* Equações do plano (baseadas em três pontos e na normal).
+* Determinação de pontos de um plano.
+* Ângulos entre retas e planos.
+* Intersecção entre retas e planos e entre planos e planos.
+* Posições relativas entre ponto e plano.
+* Polígonos planos.
+* Propriedades.
+* Contorno (Hull) convexo de um polígono.
+* Construção de polígonos regulares.
+* Simetrias.
+* Posições relativas entre pontos e polígonos (em relação a seu interior e exterior).
+* Poliedros.
+* Poliedros regulares e semi-regulares.
+* Poliedros duais.
+* Poliedros estrelados.
+* Redes definidas a partir de poliedros.
+* Contorno (Hull) convexo de um poliedro.
+* Fórmula de Euler para poliedros simples e não-simples.
+* Matriz de conectividade.
+* Representação de poliedros por semi-espaços.
 
 
 ### Metodologias, técnicas e recursos de ensino e aprendizagem

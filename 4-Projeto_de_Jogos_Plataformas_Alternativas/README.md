@@ -1,6 +1,6 @@
-## Projeto de Jogos: Motores de Jogos
+## Projeto de Jogos: Plataformas Alternativas
 
-**Disciplina**:   060386  
+**Disciplina**:   060393  
 **Ano/semestre**:  2014/1  
 **Créditos acadêmicos**: 4  
 **Horas laboratório**: 60.00  
@@ -9,16 +9,15 @@
 
 ### Competências
 
-Redigir documentos técnicos em português para o desenvolvimento de propostas e relatórios de desenvolvimento de jogos;
-Projetar e implementar jogos utilizando um motor de jogo.
+* Redigir documentos técnicos em português para o desenvolvimento de propostas e relatórios de desenvolvimento de jogos.
+* Projetar e implementar jogos em uma plataforma alternativa (móvel, web ou diversos sistemas operacionais).
+
 
 ### Conhecimentos
 
-* Implementação de jogo em um motor de Jogo;
-* Edição de mapas;
-* Ferramentas de edição de som;
-* Modelagem de personagens e cenário;
-* Definição de regras e mecânica do jogo.
+* Projeto de jogos digitais para plataformas alternativas;
+* Desenvolvimento de jogos para uma plataforma alternativa (móvel, web ou diferentes sistemas operacionais).
+
 
 ### Metodologias, técnicas e recursos de ensino e aprendizagem
 
@@ -41,21 +40,21 @@ Na modalidade a distância a avaliação incluirá os resultados das atividades 
 
 ### Bibliografia básica
 
-CHANDLER, Heather M. Manual de Produção de Jogos Digitais. 2ed. Bookman: Porto Alegre, 2012, 508p.
+CROOKS, Clayton E. Mobile device game development. Hingham: Charles River Media, c2005.
 
-EBERLY, David H. 3d game engine design: a practical approach do real-time computer graphics. San Francisco: Morgan Kaufmann, 2001.
+MEIGS, T. Ultimate Game Design: Building Game Worlds. McGraw-Hill Osborne Media, 2003.
 
-GREGORY, Jason. Game engine architecture. Natick, Mass.: A K Peters, c2009. xv, 860 p.
+ROGERS, S. Swipe This!: The Guide to Great Touchscreen Game Design. Wiley, 2012.
 
 
 ### Bibliografia complementar
 
-BATES, Bob. Game design: the art & business of creating games. Roseville: Prima Tech, c2001.
+DELOURA, Mark A.; TREGLIA, Dante; KIRMSE, Andrew (Ed.). Game programming gems. Rockland: Charles River Media, 2000-2004.
 
-CHANDLER, Heather M. Manual de Produção de Jogos Digitais. 2ed. Bookman: Porto Alegre, 2012, 508p.
+DUNNIWAY, Troy; NOVAK, Jeannie. Game development essentials: gameplay mechanics. Clifton Park, NY: Delmar Cengage Learning, c2008.
 
-LENGYEL, Eric. Game Engine Gems 2. A K Peters/CRC Press, 2011.
+International Journal of Computer Games Technology. Artigos disponíveis em: [http://www.hindawi.com/journals/ijcgt/contents/](http://www.hindawi.com/journals/ijcgt/contents/)
 
-LENGYEL, Eric. Game Engine Gems. Jones & Bartlett Publishers, 2010.
+SALEN, Katie; ZIMMERMAN, Eric. Regras do jogo: fundamentos do design de jogos. São Paulo: Blucher, 2012. 229 p.
 
-MCSHAFFRY, Mike; GRAHAM, David. Game Coding Complete, Fourth Edition. Course Technology PTR, 2012.
+Jesse Schell. The Art of Game Design: A book of lenses. CRC Press, 2008.

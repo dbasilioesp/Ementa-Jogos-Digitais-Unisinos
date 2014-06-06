@@ -9,27 +9,27 @@
 
 ### Competências  
 
-Capacidade para compreender a natureza, formatos e histórico de roteiros e suas implicações em realizações audiovisuais, especialmente para jogos de computador.
+* Capacidade para compreender a natureza, formatos e histórico de roteiros e suas implicações em realizações audiovisuais, especialmente para jogos de computador.
+* Capacidade para analisar criticamente os elementos constitutivos de roteiros de diferentes gêneros e formatos para jogos.
+* Capacidade para distinguir, comparar e elaborar roteiros de diferentes estilos de jogos.
+* Compreender o conceito de Gameplay e sua importância.
+* Distinguir potenciais e limitações específicas de formato e gênero de jogos.
+* Capacidade de adaptar roteiros de diversas origens (cinema, televisão, literatura) para desenvolvimento de * jogos.
 
-Capacidade para analisar criticamente os elementos constitutivos de roteiros de diferentes gêneros e formatos para jogos.
-
-Capacidade para distinguir, comparar e elaborar roteiros de diferentes estilos de jogos.
-
-Compreender o conceito de Gameplay e sua importância.
-
-Distinguir potenciais e limitações específicas de formato e gênero de jogos.
-
-Capacidade de adaptar roteiros de diversas origens (cinema, televisão, literatura) para desenvolvimento de jogos.
 
 ### Conhecimentos
+
 Argumento. Tratamentos. Script. Storyboard. Desenvolvimento de personagens. Roteiros lineares e não-lineares. Adaptação de roteiros o Roteiro e gameplay.
 
 
 ### Metodologias, técnicas e recursos de ensino e aprendizagem
+
 Aulas expositivas, sob o enfoque da discussão e análise crítica (sob ambos os pontos de vista, técnico e humano) dos conteúdos apresentados, intercaladas com a realização de exercícios de cunho prático, experimentos e seminários.
 
 ### Metodologias, técnicas e recursos de avaliação
-A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno ao longo da atividade; Dificuldades de aprendizagem que possam comprometer o desenvolvimento de alguma das competências previstas devem ser identificadas e trabalhadas ainda no decorrer da atividade; Além de critérios de avaliação que atestem a aprendizagem de aspectos técnicos, sempre sob um ponto de vista da capacidade de avaliação crítica por parte do aluno, critérios como pontualidade, capacidade de trabalhar em equipe, participação em aula, completude das tarefas solicitadas e capacidade de expressão devem ser também considerados.
+
+* A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno ao longo da atividade; Dificuldades de aprendizagem que possam comprometer o desenvolvimento de alguma das competências previstas devem ser identificadas e trabalhadas ainda no decorrer da atividade; 
+* Além de critérios de avaliação que atestem a aprendizagem de aspectos técnicos, sempre sob um ponto de vista da capacidade de avaliação crítica por parte do aluno, critérios como pontualidade, capacidade de trabalhar em equipe, participação em aula, completude das tarefas solicitadas e capacidade de expressão devem ser também considerados.
 
 ### Bibliografia básica
 

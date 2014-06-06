@@ -9,33 +9,22 @@
 
 ### Competências
 
-Aplicar os princípios básicos da mecânica clássica na elaboração de jogos digitais.
-
-Modelar problemas físicos envolvendo a dinâmica translacional, a dinâmica rotacional dos corpos rígidos e as leis de conservação.
-
-Trabalhar de forma cooperativa.
-
-Desenvolver simulações computacionais aplicando conceitos básicos de mecânica clássica.
-
+* Aplicar os princípios básicos da mecânica clássica na elaboração de jogos digitais.
+* Modelar problemas físicos envolvendo a dinâmica translacional, a dinâmica rotacional dos corpos rígidos e as leis de conservação.
+* Trabalhar de forma cooperativa.
+* Desenvolver simulações computacionais aplicando conceitos básicos de mecânica clássica.
 
 ### Conhecimentos
 
-Grandezas associadas ao movimento translacional: trajetória, deslocamento, velocidade e aceleração.
-
-Movimento de projéteis. Dinâmica do movimento translacional: Leis de Newton. Força. Gravidade.
-
-Princípios de conservação: momento linear e energia.
-
-Colisões.
-
-Física de corpos rígidos e corpos articulados.
-
-Veículos rígidos (aviões, navios, carros).
-
-Motores de Física para jogos.
-
-Programação de Física para Jogos.
-
+* Grandezas associadas ao movimento translacional: trajetória, deslocamento, velocidade e aceleração.
+* Movimento de projéteis.
+* Dinâmica do movimento translacional: Leis de Newton. Força. Gravidade.
+* Princípios de conservação: momento linear e energia.
+* Colisões.
+* Física de corpos rígidos e corpos articulados.
+* Veículos rígidos (aviões, navios, carros).
+* Motores de Física para jogos.
+* Programação de Física para Jogos.
 
 ### Metodologias, técnicas e recursos de ensino e aprendizagem
 
@@ -44,7 +33,9 @@ Aulas expositivas, sob o enfoque da discussão e análise crítica (sob ambos os
 
 ### Metodologias, técnicas e recursos de avaliação
 
-A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno no decorrer da Atividade. Dificuldades de aprendizagem que possam comprometer o desenvolvimento de alguma das competências previstas devem ser identificadas e sanadas ainda no decorrer da Atividade. Além de critérios de avaliação que atestem a aprendizagem de aspectos técnicos, sempre sob um ponto de vista da capacidade de avaliação crítica por parte do aluno, critérios como pontualidade, capacidade de trabalhar em equipe, participação em aula, completude das tarefas solicitadas e capacidade de expressão devem ser também considerados.
+* A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno no decorrer da Atividade. 
+* Dificuldades de aprendizagem que possam comprometer o desenvolvimento de alguma das competências previstas devem ser identificadas e sanadas ainda no decorrer da Atividade. 
+* Além de critérios de avaliação que atestem a aprendizagem de aspectos técnicos, sempre sob um ponto de vista da capacidade de avaliação crítica por parte do aluno, critérios como pontualidade, capacidade de trabalhar em equipe, participação em aula, completude das tarefas solicitadas e capacidade de expressão devem ser também considerados.
 
 
 ### Bibliografia básica

@@ -9,30 +9,34 @@
 
 ### Competências
 
-Dominar conceitos básicos associados aos principais sistemas operacionais e sua estrutura interna;
-
-Distinguir os diferentes componentes de um sistema operacional e suas funcionalidades;
-
-Refletir criticamente o impacto de mecanismos de gerência de processos, memória e sistemas de arquivos aplicados nos sistemas operacionais;
-
-Construir programas utilizando recursos oferecidos pelo sistema operacional;
-
-Realizar operações de entrada e saída utilizando recursos oferecidos pelo sistema operacional;
-
-Empregar conceitos de comunicação e sincronização entre processos.
+* Dominar conceitos básicos associados aos principais sistemas operacionais e sua estrutura interna;
+* Distinguir os diferentes componentes de um sistema operacional e suas funcionalidades;
+* Refletir criticamente o impacto de mecanismos de gerência de processos, memória e sistemas de arquivos aplicados nos sistemas operacionais;
+* Construir programas utilizando recursos oferecidos pelo sistema operacional;
+* Realizar operações de entrada e saída utilizando recursos oferecidos pelo sistema operacional;
+* Empregar conceitos de comunicação e sincronização entre processos.
 
 
 ### Conhecimentos
 
-Introdução aos sistemas operacionais;
-
-Principais conceitos, estruturas de sistemas operacionais e componentes;
-
-Gerência de processos; processos e threads; escalonamento; comunicação e sincronização entre processos; deadlocks;
-
-Gerência de memória; paginação; segmentação; swapping;
-
-Sistemas de arquivos; arquivos e diretórios; estruturas de sistemas de arquivos; implementação de sistemas de arquivos; métodos de alocação e gerência do espaço livre; recuperação; sistemas de arquivos estruturados com log.
+* Introdução aos sistemas operacionais;
+* Principais conceitos, estruturas de sistemas operacionais e componentes;
+* Gerência de processos; 
+    * processos e threads;
+    * escalonamento;
+    * comunicação e sincronização entre processos;
+    * deadlocks;
+* Gerência de memória; 
+    * paginação; 
+    * segmentação; 
+    * swapping;
+* Sistemas de arquivos;
+    * arquivos e diretórios;
+    * estruturas de sistemas de arquivos;
+    * implementação de sistemas de arquivos;
+    * métodos de alocação e gerência do espaço livre;
+    * recuperação; 
+    * sistemas de arquivos estruturados com log.
 
 
 ### Metodologias, técnicas e recursos de ensino e aprendizagem
@@ -42,7 +46,9 @@ Aulas expositivas, sob o enfoque da discussão e análise crítica (sob ambos os
 
 ### Metodologias, técnicas e recursos de avaliação
 
-A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno ao longo da atividade. Dificuldades de aprendizagem que possam comprometer o desenvolvimento de alguma das competências previstas devem ser identificadas e trabalhadas ainda no decorrer da atividade. Além de critérios de avaliação que atestem a aprendizagem de aspectos técnicos, sempre sob um ponto de vista da capacidade de avaliação crítica por parte do aluno, critérios como pontualidade, capacidade de trabalhar em equipe, participação em aula, completude das tarefas solicitadas e capacidade de expressão devem ser também considerados.
+* A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno ao longo da atividade. 
+* Dificuldades de aprendizagem que possam comprometer o desenvolvimento de alguma das competências previstas devem ser identificadas e trabalhadas ainda no decorrer da atividade. 
+* Além de critérios de avaliação que atestem a aprendizagem de aspectos técnicos, sempre sob um ponto de vista da capacidade de avaliação crítica por parte do aluno, critérios como pontualidade, capacidade de trabalhar em equipe, participação em aula, completude das tarefas solicitadas e capacidade de expressão devem ser também considerados.
 
 
 ### Bibliografia básica

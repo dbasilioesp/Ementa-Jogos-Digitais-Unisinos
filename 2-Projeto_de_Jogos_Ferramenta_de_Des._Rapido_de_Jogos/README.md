@@ -9,16 +9,17 @@
 
 ### Competências
 
-Redigir documentos técnicos em português para o desenvolvimento de propostas e relatórios de desenvolvimento de jogos.
-
-Projetar e implementar jogos 3-D.
-
-Utilizar ferramentas de desenvolvimento rápido de jogos.
+* Redigir documentos técnicos em português para o desenvolvimento de propostas e relatórios de desenvolvimento de jogos.
+* Projetar e implementar jogos 3-D.
+* Utilizar ferramentas de desenvolvimento rápido de jogos.
 
 ### Conhecimentos
 
-Ferramenta de desenvolvimento rápido de jogos: criação de objetos, texturas,efeitos especiais, DVD/CD playback, criação de instâncias, definição de câmeras, definição de terreno, animação, interação, detecção de colisão. Manipulação de imagem para texturas de objetos 2-D e 3-D. Ferramentas de edição de modelos
-3-D. Ferramentas de edição de som. Metodologias para o desenvolvimento rápido de jogos 3-D.
+* Ferramenta de desenvolvimento rápido de jogos: criação de objetos, texturas,efeitos especiais, DVD/CD playback, criação de instâncias, definição de câmeras, definição de terreno, animação, interação, detecção de colisão.
+* Manipulação de imagem para texturas de objetos 2-D e 3-D.
+* Ferramentas de edição de modelos 3-D.
+* Ferramentas de edição de som.
+* Metodologias para o desenvolvimento rápido de jogos 3-D.
 
 
 ### Metodologias, técnicas e recursos de ensino e aprendizagem
@@ -28,9 +29,10 @@ Acompanhamento e a orientação do estudante no desenvolvimento de um projeto, d
 
 ### Metodologias, técnicas e recursos de avaliação
 
-A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno ao longo da atividade;
+* A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno ao longo da atividade;
 Dificuldades de aprendizagem que possam comprometer o desenvolvimento de alguma das competências previstas devem ser identificadas e trabalhadas ainda no decorrer da atividade;
-Além de critérios de avaliação que atestem a aprendizagem de aspectos técnicos, sempre sob um ponto de vista da capacidade de avaliação crítica por parte do aluno, critérios como pontualidade, capacidade de trabalhar em equipe, participação em aula, completude das tarefas solicitadas e capacidade de expressão devem ser também considerados.
+
+* Além de critérios de avaliação que atestem a aprendizagem de aspectos técnicos, sempre sob um ponto de vista da capacidade de avaliação crítica por parte do aluno, critérios como pontualidade, capacidade de trabalhar em equipe, participação em aula, completude das tarefas solicitadas e capacidade de expressão devem ser também considerados.
 
 ### Bibliografia básica
 
