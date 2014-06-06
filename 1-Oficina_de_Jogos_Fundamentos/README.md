@@ -1,4 +1,4 @@
-# Oficina de Jogos: Fundamentos
+## Oficina de Jogos: Fundamentos
 
 **Disciplina**:   060373  
 **Ano/semestre**:  2014/1  
@@ -7,7 +7,7 @@
 **Área temática**:  INFJED - Jogos e Entretenimento Digital  
 **Organização acadêmica**: Sup Tecn Des Jogos Entret Dig  
 
-## Competências
+### Competências
 
 Conhecer a história e a evolução das aplicações de jogos e entretenimento digital na computação, sendo capaz de posicionar-se neste contexto e de identificar tendências futuras.
 
@@ -22,7 +22,7 @@ Discernir condutas éticas e não éticas nas práticas que envolvam o uso e des
 Exercitar o planejamento e implementação de um jogo 2D utilizando uma ferramenta de desenvolvimento rápido.
 
 
-## Conhecimentos
+### Conhecimentos
 
 História e evolução dos jogos.
 
@@ -39,15 +39,15 @@ Luz e Cor.
 Utilização de uma ferramenta de desenvolvimento rápido de jogos.
 
 
-## Metodologias, técnicas e recursos de ensino e aprendizagem
+### Metodologias, técnicas e recursos de ensino e aprendizagem
 Aulas expositivas, intercaladas com a realização de exercícios e trabalhos de cunho prático.
 
 
-## Metodologias, técnicas e recursos de avaliação
+### Metodologias, técnicas e recursos de avaliação
 A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno ao longo da atividade; Realização de avaliações escritas e trabalhos práticos; Projeto e implementação de um jogo digital 2D, utilizando uma ferramenta de desenvolvimento rápido.
 
 
-## Bibliografia básica
+### Bibliografia básica
 
 HABGOOD, J.; OVERMARS, M.H. The Game Maker's Apprentice: Game Development for Beginners. Apress, 2006.
 
@@ -56,7 +56,7 @@ KENT, Steve L. The ultimate history of video games: from Pong to Pokémon and be
 SALEN, Katie; ZIMMERMAN, Eric. Regras do jogo: fundamentos do design de jogos. São Paulo: Blucher, 2012. 167 p.
 
 
-## Bibliografia complementar
+### Bibliografia complementar
 CASTILLO, Travis; NOVAK, Jeannie. Game development essentials: game level design. New York: Delmar, c2008.
 
 CRAWFORD, Chris. Chris Crawford on game design. Indianapolis: New Riders, 2003.

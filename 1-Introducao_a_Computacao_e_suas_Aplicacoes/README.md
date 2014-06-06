@@ -1,4 +1,4 @@
-# Introdução à Computação e suas Aplicações
+## Introdução à Computação e suas Aplicações
 
 **Disciplina**:   060305  
 **Ano/semestre**:  2014/1  
@@ -7,7 +7,7 @@
 **Área temática**:  INFFC - Fundamentos da Computação  
 **Organização acadêmica**: Coord Cursos Sup de Tecnol  
 
-## Competências
+### Competências
 Caracterizar e descrever fundamentos da Ciência da Computação, incluindo arquiteturas de computadores, sistemas operacionais, redes de computadores e Internet, linguagens de programação.
 
 Operar os sistemas operacionais Windows e Linux.
@@ -23,17 +23,17 @@ Discernir condutas éticas de não éticas nas práticas que envolvem o uso do c
 Discernir condutas éticas e não éticas nas práticas que envolvam o uso e desenvolvimento de jogos e aplicações para computador.
 
 
-## Conhecimentos
+### Conhecimentos
 História da computação. Componentes de um computador. Representação de dados no computador. Sistemas numéricos: binário, decimal e hexadecimal.
 
 Execução de instruções de programas. Dispositivos de entrada e saída. Sistemas operacionais. Aplicativos. Funções de um sistema operacional. Os sistemas operacionais Windows e Linux. Linguagens de programação: máquina, assembly, baixo e alto nível. Componentes de uma rede de computadores. Tipos de redes e protocolos de comunicação. Internet. A computação e o seu potencial para impulsionar outras áreas do conhecimento. Condutas éticas e não éticas em computação: copiar conteúdo da internet para apresentações; registrar nomes de domínios que pertencem a outras pessoas ou companhias; acessar informações disponíveis em diversos bancos de dados; influenciar compras de software; conteúdo do disco rígido.
 
 
-## Metodologias, técnicas e recursos de ensino e aprendizagem
+### Metodologias, técnicas e recursos de ensino e aprendizagem
 
-## Metodologias, técnicas e recursos de avaliação
+### Metodologias, técnicas e recursos de avaliação
 
-## Bibliografia básica
+### Bibliografia básica
 BROOKSHEAR, J. G. Ciência da Computação. Quinta Edição. São Paulo: BoOKman, 2000.
 
 CAPRON, H. L.; JOHNSON, J. A. Computers: Tools for an Information Age - Complete. Eighth Edition. Prentice Hall, 2004.

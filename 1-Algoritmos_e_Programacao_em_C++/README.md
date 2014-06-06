@@ -1,4 +1,4 @@
-#  Algoritmos e Programação em C++
+##  Algoritmos e Programação em C++
 
 **Disciplina**:   060333  
 **Ano/semestre**:  2014/1  
@@ -7,7 +7,7 @@
 **Área temática**:  INF - Informática  
 **Organização acadêmica**: Coord Cursos Sup de Tecnol
 
-##Competências  
+### Competências  
 Compreender o enunciado de um problema proposto e produzir um algoritmo que leve à solução correta do mesmo;
 
 Elaborar algoritmos que façam uso, em conjunto, de estruturas de controle do tipo seqüenciais, de repetição e de seleção;
@@ -21,7 +21,7 @@ Codificar algoritmos na linguagem de programação C++;
 Produzir programas legíveis, eficientes e corretos.
 
 
-##Conhecimentos
+### Conhecimentos
 Fundamentos da arquitetura de Von Neumann.
 
 Fundamentos da programação imperativa: comandos de atribuição, de fluxo de controle e de entrada/saída.
@@ -45,16 +45,16 @@ Invocação de métodos.
 Herança, polimorfismo e ligação dinâmica.
 
 
-## Metodologias, técnicas e recursos de ensino e aprendizagem
+### Metodologias, técnicas e recursos de ensino e aprendizagem
 Aulas expositivas, sob o enfoque da discussão e análise crítica (sob ambos os pontos de vista, técnico e humano) dos conteúdos apresentados, intercaladas com a realização de exercícios de cunho prático, experimentos e seminários.
 
 
-## Metodologias, técnicas e recursos de avaliação
+### Metodologias, técnicas e recursos de avaliação
 
 A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno ao longo da atividade. Dificuldades de aprendizagem que possam comprometer o desenvolvimento de alguma das competências previstas devem ser identificadas e trabalhadas ainda no decorrer da atividade. Além de critérios de avaliação que atestem a aprendizagem de aspectos técnicos, sempre sob um ponto de vista da capacidade de avaliação crítica por parte do aluno, critérios como pontualidade, capacidade de trabalhar em equipe, participação em aula, completude das tarefas solicitadas e capacidade de expressão devem ser também considerados.
 
 
-## Bibliografia básica
+### Bibliografia básica
 DEITEL, Harvey; DEITEL, Paul. C++: Como Programar. 5. ed. São Paulo: Pearson, 2010.
 
 SCHILDT, Herbert. C: completo e total. 3. ed. São Paulo: Makron, 1996.

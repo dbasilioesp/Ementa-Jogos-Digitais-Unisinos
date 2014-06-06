@@ -1,4 +1,4 @@
-# Matemática para Computação Gráfica: Vetores, Matrizes e Funções
+## Matemática para Computação Gráfica: Vetores, Matrizes e Funções
 
 **Disciplina**:   060372  
 **Ano/semestre**:  2014/1  
@@ -7,7 +7,7 @@
 **Área temática**:  MAT - Matemática  
 **Organização acadêmica**: Sup Tecn Des Jogos Entret Dig  
 
-## Competências
+### Competências
 
 Modelar objetos gráficos por equações matemáticas;
 
@@ -20,7 +20,7 @@ Esboçar e compreender gráficos de funções simples;
 Lidar com o conceito de vetores e suas aplicações.
 
 
-## Conhecimentos
+### Conhecimentos
 
 Noções do conceito de vetores fixos e livres;
 
@@ -71,12 +71,12 @@ Intervalos nos reais;
 Tangentes a gráficos de funções.
 
 
-## Metodologias, técnicas e recursos de ensino e aprendizagem
+### Metodologias, técnicas e recursos de ensino e aprendizagem
 
 Aulas expositivas, sob o enfoque da discussão e análise crítica (sob ambos os pontos de vista, técnico e humano) dos conteúdos apresentados, intercaladas com a realização de exercícios de cunho prático, experimentos e seminários.
 
 
-## Metodologias, técnicas e recursos de avaliação
+### Metodologias, técnicas e recursos de avaliação
 A avaliação é processual, cumulativa, participativa e contínua, a partir de toda a produção do aluno ao longo da atividade;
 
 Dificuldades de aprendizagem que possam comprometer o desenvolvimento de alguma das competências previstas devem ser identificadas e trabalhadas ainda no decorrer da atividade;
@@ -84,7 +84,7 @@ Dificuldades de aprendizagem que possam comprometer o desenvolvimento de alguma 
 Além de critérios de avaliação que atestem a aprendizagem de aspectos técnicos, sempre sob um ponto de vista da capacidade de avaliação crítica por parte do aluno, critérios como pontualidade, capacidade de trabalhar em equipe, participação em aula, completude das tarefas solicitadas e capacidade de expressão devem ser também considerados.
 
 
-## Bibliografia básica
+### Bibliografia básica
 
 CAMARGO, Ivan de; BOULOS, Paulo. Geometria analítica: um tratamento vetorial. 3. ed. São Paulo: Prentice Hall, 2005.
 
@@ -93,7 +93,7 @@ MORTENSON, M.E. Mathematics for Computer Graphics Application. 2nd ed. New York:
 WINTERLE, P. Vetores e Geometria Analítica. São Paulo: Makron Books, 2000.
 
 
-## Bibliografia complementar
+### Bibliografia complementar
 ANTON, Howard; BUSBY, Robert C. Álgebra linear contemporânea. Porto Alegre: Bookman, 2006.
 
 GOMES, Sérgio Concli. Cálculo vetorial e geometria analítica. 2. ed. São Leopoldo: UNISINOS, 1993. 234 p.
