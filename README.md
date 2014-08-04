@@ -20,6 +20,7 @@
 * [3 - Computacao_Grafica](https://github.com/dbasilioesp/Ementa-Unisinos/tree/master/3-Computacao_Grafica)
 * [3 - Conceitos_de_Sistemas_Operacionais](https://github.com/dbasilioesp/Ementa-Unisinos/tree/master/3-Conceitos_de_Sistemas_Operacionais)
 * [3 - Ferramentas_de_Design](https://github.com/dbasilioesp/Ementa-Unisinos/tree/master/3-Ferramentas_de_Design)
+* [3 - Fisica_para_Jogos_Digitais](https://github.com/dbasilioesp/Ementa-Jogos-Digitais-Unisinos/tree/master/3-Fisica_para_Jogos_Digitais)
 * [3 - Jogos_e_Interacao_Humano_Computador](https://github.com/dbasilioesp/Ementa-Unisinos/tree/master/3-Jogos_e_Interacao_Humano_Computador)
 * [3 - Modelagem_e_Simulacao_para_Jogos](https://github.com/dbasilioesp/Ementa-Unisinos/tree/master/3-Modelagem_e_Simulacao_para_Jogos)
 * [3 - Oficina_de_Jogos_Motores_de_Jogos](https://github.com/dbasilioesp/Ementa-Unisinos/tree/master/3-Oficina_de_Jogos_Motores_de_Jogos)
